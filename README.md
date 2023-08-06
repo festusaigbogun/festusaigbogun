@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *Festus Aigbogun*
+- 👋 Hi, I’m Festus Aigbogun
 - 👀 I’m interested in analyzing data to to give valuable insight to businesses 
 - 🌱 I’m currently learning Microsoft Excel, Power BI, SQL and Phyton
 - 💞️ I’m looking to collaborate on collaborating on Data Analytics projects
