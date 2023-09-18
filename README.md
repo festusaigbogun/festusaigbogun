@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Festus Aigbogun
 - 👀 I’m interested in analyzing data to to give valuable insight to businesses 
-- 🌱 I’m skill with Microsoft Excel, Power BI, SQL and Phyton
+- 🌱 I possess proficiency in Microsoft Excel, Power BI, SQL, and Python
 - 💞️ I’m looking to collaborate on collaborating on Data Analytics projects
-- 📫 How to reach me via my email festuspapy@gmail.com and through Linkedin @https://www.linkedin.com/in/festus-aigbogun-2a97a1276
+- 📫 You can reach me via my email festuspapy@gmail.com and through Linkedin @https://www.linkedin.com/in/festus-aigbogun-2a97a1276
 
 <!---
 festusaigbogun/festusaigbogun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
